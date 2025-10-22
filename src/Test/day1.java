@@ -18,6 +18,9 @@ public class day1 {
 	public void Demo()
 	{
 		System.out.println("hello");
+		System.out.println("hellohg");
+		System.out.println("hellofr");
+		System.out.println("hellokjf");
 		Assert.assertTrue(false);
 	}
 	@AfterSuite
