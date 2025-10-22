@@ -26,6 +26,16 @@ public class day3 {
 		System.out.println(urlname);
 		System.out.println(key);
 	}
+	
+	@Test
+	public void WebloginCarLoanhj(String urlname, String key)
+	{
+		//selenium 
+		System.out.println("WebloginCar");
+		System.out.println(urlname);
+		System.out.println(key);
+	}
+	
 	@BeforeMethod
 	public void beforeevery()
 	{
